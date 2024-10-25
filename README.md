@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dlytersymoh
+Hello am Simon  Mwangi aka Dlytersymoh 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,5 @@
 - ⚡ Fun fact: ...
 
 <!---
-Dlytersymoh/Dlytersymoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Dlytersymoh/Dlytersymoh is a student at Mmust(maside murilo university. A university of choice 
 --->

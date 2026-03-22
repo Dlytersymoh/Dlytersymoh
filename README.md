@@ -1,15 +1,10 @@
-Hello am Simon  Mwangi aka Dlytersymo
-
-
-
-
-
-
-
-     I am interested in knowing more on cyber security and web development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello am Simon  Mwangi 
+I am interested in ML,AI AUTOMATION, WEB DEVELOPMENT,AND DATA SCIENCE 
+-Currentry am Junior student at MMUST(MASINDE MURILLO UNIVERSITY OF SCIENCE AND TECHNOLOGY)
+I AM WILLING TO COLLABORATE AT ANY OPEN END PROJECT AND IS PRODUCTIVE
+YOU CAN REACH ME ON 
+ 1.email: simonwairia89@gmail.com 
+2. instergram:https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=mogaaag
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

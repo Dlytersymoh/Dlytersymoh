@@ -1,4 +1,11 @@
 Hello am Simon  Mwangi aka Dlytersymo
+
+
+
+
+
+
+
      I am interested in knowing more on cyber security and web development 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
